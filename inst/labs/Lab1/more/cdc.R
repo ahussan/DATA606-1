@@ -1,4 +1,3 @@
-cdc <-
 structure(list(genhlth = structure(c(3L, 3L, 3L, 3L, 
 2L, 2L, 2L, 2L, 3L, 3L, 1L, 4L, 1L, 1L, 4L, 3L, 3L, 4L, 3L, 2L, 
 2L, 3L, 2L, 3L, 2L, 3L, 1L, 1L, 2L, 1L, 2L, 1L, 2L, 3L, 3L, 1L, 
